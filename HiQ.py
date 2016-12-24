@@ -1,8 +1,6 @@
 
-#Abheek Gulati
-#31375703
-#akg29
-#CS635-101
+#Author: Abheek Gulati
+#For: NJIT class CS 635
 
 import sys
 
