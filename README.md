@@ -11,5 +11,6 @@ from a full board, start out with empty hole 5, and report it as a goal state on
 over a peg into the empty hole, both the ‘from’ and ‘into’ holes are left empty and only the ‘into’ hole is now occupied. This is because
 the peg that was jumped over must now be removed from the board. The output of the programs is a list of moves that got it to the goal 
 state. On being presented with a solution, the user may ask for another one, as the programs are designed such that given an initial
-starting empty hole, they find ALL possible solutions beginning from that hole. The same program is written by me in three different
-languages: Java, Python and C++
+starting empty hole, they find ALL possible solutions beginning from that hole. 
+
+The code in this repository hence consist of the recursive Java, C++ and Python implementations on this game. These were written by me as part of coursework for the grad-level Computer Programming Languages course undertaken while pursuing my MS CS degree at NJIT. 
